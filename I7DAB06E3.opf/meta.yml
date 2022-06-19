@@ -1,0 +1,38 @@
+id: I7DAB06E3
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:10:11.661907'
+last_modified: '2022-06-19T10:10:11.661918'
+parser: null
+source_metadata:
+  title: Autobiography of Jam dbyangs mkhyen brtsei dbang phyug (1524–1568); Lamdre
+    Lobshe, vol. ga, title no. 1
+  author: འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་ཕྱུག
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-26);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/561
+  bases:
+    11a4:
+      title: Autobiography of Jam dbyangs mkhyen brtsei dbang phyug (1524–1568); Lamdre
+        Lobshe, vol. ga, title no. 1
+      order: 1
+      base_file: 11a4.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
